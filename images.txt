@@ -1,5 +1,3 @@
 nginx
 gpt_academic_nolocal
-#支持私库
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+ghcr.io/binary-husky/gpt_academic_nolocal:master
