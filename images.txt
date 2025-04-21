@@ -2,3 +2,4 @@ nginx
 ghcr.io/binary-husky/gpt_academic_nolocal:master
 colinchang/ubuntu-desktop
 mortals/codeenv:conda-cuda11.8
+nvidia/cuda:11.2.2-cudnn8-runtime-ubuntu20.04
